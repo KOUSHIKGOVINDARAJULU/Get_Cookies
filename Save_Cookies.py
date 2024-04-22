@@ -7,8 +7,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 if __name__ == '__main__':
-    email = "koushikkumar580@gmail.com"
-    password = "Saikoushik@123"
+    email = "Your_Email"
+    password = "Your_Password"
 
     options = webdriver.ChromeOptions()
     #options.add_argument('proxy-server=106.122.8.54:3128')
